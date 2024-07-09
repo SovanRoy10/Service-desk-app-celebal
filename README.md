@@ -7,7 +7,7 @@
 ![Ticket System Manage Users](/public/assets/screenshots/ticket_system_manage_users.png)
 ![Ticket System Manage Projects](/public/assets/screenshots/ticket_system_manage_projects.png)
 
-## Built with
+## Techstack
 * Mongoose.js (MongoDB): Database
 * Express.js: Backend framework
 * React.js: Frontend framework
